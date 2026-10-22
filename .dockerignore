@@ -1,0 +1,4 @@
+backend/models
+backend/pyproject.toml
+backend/.venv
+backend/uv.lock
